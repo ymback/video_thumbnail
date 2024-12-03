@@ -8,3 +8,4 @@ build/
 
 .idea/
 *.iml
+/ohos/local.properties

@@ -34,6 +34,10 @@ flutter:
         pluginClass: VideoThumbnailPlugin
       ios:
         pluginClass: VideoThumbnailPlugin
+      ohos:
+        package: xyz.justsoft.video_thumbnail
+        pluginClass: VideoThumbnailPlugin
+
 
   # To add assets to your plugin package, add an assets section, like this:
   # assets:

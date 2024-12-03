@@ -1,0 +1,10 @@
+{
+  "module": {
+    "name": "video_thumbnail",
+    "type": "har",
+    "deviceTypes": [
+      "default",
+      "tablet"
+    ]
+  }
+}
